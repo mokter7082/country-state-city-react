@@ -24,3 +24,8 @@ a {
     background: black;
   }
 }
+.container {
+  width: 900px;
+  margin: auto;
+  padding-top: 50px;
+}
